@@ -1,0 +1,27 @@
+_repo: Jeanne-d-Arcde-maagd-van-Orl-ans_35885
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35885-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Koopmans van Boekeren, H. E.
+    aliases:
+    - Boekeren, Henri Emile Koopmans van
+    - Boekeren, H. E. Koopmans van
+    gutenberg_agent_id: '37958'
+    url: http://www.gutenberg.org/2009/agents/37958
+description: ''
+gutenberg_issued: '2011-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35885'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Joan, of Arc, Saint, 1412-1431'
+- !lcc 'DC'
+title: Jeanne d'Arc, de maagd van Orléans
+url: http://www.gutenberg.org/ebooks/35885
